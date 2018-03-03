@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jp.ne.sakura.kkkon.test</groupId>
+  <artifactId>test_github_maven-plugin_encrypt</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180303102009</lastUpdated>
+  </versioning>
+</metadata>
